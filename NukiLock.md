@@ -18,7 +18,7 @@ Possible outcome of a simple lock action (mapping handled in the firmware of the
 |action|smartlock/knob|smartlock/handle|opener|
 |------|------|------|------|
 |lock|lock|lock|deactivate rto and cm|
-|unlack|unlatch|unlock|open|
+|unlock|unlatch|unlock|open|
 
 #Lock States
 
