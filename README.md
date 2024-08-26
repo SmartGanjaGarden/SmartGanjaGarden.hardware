@@ -1,10 +1,8 @@
 # SmartGanjaGarden.hardware
 
+### Nuki SmartLock 4.0 Pro
 
-
-
-
-
+![alt text](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/nuki-smart-lock-40-pro.jpg "Logo Title Text 1")
 
 
 
