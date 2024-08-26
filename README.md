@@ -5,7 +5,10 @@
   
   ### Nuki SmartLock 4.0 Pro
   ![SmartLock](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/nuki-smart-lock-40-pro.jpg "Logo Title Text 1")
-  
+
+  <details>
+  <summary>MQTT API 1.4</summary>
+  <br>  
   #LockActions
 
   |ID|smartlock|opener|
@@ -120,6 +123,7 @@
   |unlock|Set to “true” to execute the simple lock action “unlock”|true|
   |commandResponse|The Nuki device publishes to this topic the return code of the last command it executed: <br>0 = Success<br>1-255 = Error code as described in the BLE API.<br>Note: Nuki devices can only process one command at a time. If several commands are sent in parallel the commandResponses might overlap.|0|
   |lockActionEvent|The Nuki device publishes to this topic a comma separated list whenever a lock action is about to be executed:<br>● LockAction<br>● Trigger<br>● Auth-ID: Auth-ID of the user<br>● Code-ID: ID of the Keypad code, 0 = unknown<br>● Auto- Unlock (0 or 1) or number of button presses (only button & fob actions) or Keypad source (0 = back key, 1 = code, 2 = fingerprint)<br>● Only lock actions that are attempted to be executed are reported. E.g. unsuccessful Keypad code entries or lock commands outside of a time window are not published.<br><br><br><br><br><br><br><br>| Unlatch via Keypad with Auth-ID 54321 from Code-ID 12345:<br>3,0,54321,12345,1<br><br>Auto-Unlock via App from Auth-ID 54322:<br>1,0,54322,0,1<br><br>Lock’n Go via Button:<br>4,2,0,0,0<br><br>Button configured to “no action on double click” and pressed twice:<br>90,2,0,0,2<br><br>Fob with auth-id 54322 configured to “unlatch” on triple click and pressed 3x:<br>3,3,54322,0,3|
+</details>
 </details>
 
 
