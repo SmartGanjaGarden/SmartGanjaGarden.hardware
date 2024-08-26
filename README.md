@@ -4,7 +4,7 @@
   <summary>Nuki SmartLock 4.0 Pro</summary>
   
   ### Nuki SmartLock 4.0 Pro
-  ![SmartLock](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/nuki-smart-lock-40-pro.jpg "Logo Title Text 1")
+  ![SmartLock](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/nuki-smart-lock-40-pro.jpg "Nuki Smart Lock 4.0 Pro")
 
   <details>
   <summary>MQTT API 1.4</summary>
