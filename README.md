@@ -1,6 +1,6 @@
 # SmartGanjaGarden.hardware
 
-<details>
+<details open>
   <summary>Nuki SmartLock 4.0 Pro</summary>
   
   ### Nuki SmartLock 4.0 Pro
