@@ -136,10 +136,8 @@
   
   <details>
   <summary>Documentation</summary>
-  <br>
-   This site was built using [GitHub Pages](https://pages.github.com/).
+  [10+ features...](https://lightning.ai/docs/litserve/features)
 </details>
+<br>[Browse 100+ community-built templates](https://lightning.ai/studios?section=serving)<br>
 </details>
-This site was built using [GitHub Moeps](https://pages.github.com/).
-
 
