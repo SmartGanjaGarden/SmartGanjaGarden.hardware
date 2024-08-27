@@ -128,7 +128,7 @@
 <details open>
   <summary>Shelly Plug S gen1</summary>
   
-   ### Shelly Plug S gen1
+  ### Shelly Plug S gen1
   ![SmartPlug](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/shelly_plug_s_gen1.png "Shelly Plug S gen1")
 
 
