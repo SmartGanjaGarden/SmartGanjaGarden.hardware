@@ -137,7 +137,8 @@
   <details>
   <summary>Documentation</summary>
   <br>  
-  moep [moep2](https://kb.shelly.cloud/knowledge-base/shelly-plug-s)
+  ![moep2](https://kb.shelly.cloud/knowledge-base/shelly-plug-s)
+  This site was built using [GitHub Pages](https://pages.github.com/).
 </details>
 </details>
 
