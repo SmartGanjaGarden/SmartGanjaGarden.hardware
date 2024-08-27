@@ -136,8 +136,7 @@
   
   <details>
   <summary>Documentation</summary>
-  [10+ features...](https://lightning.ai/docs/litserve/features)
+  i would like to be a link
 </details>
-<br>[Browse 100+ community-built templates](https://lightning.ai/studios?section=serving)<br>
 </details>
 
