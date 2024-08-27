@@ -136,7 +136,7 @@
   
   <details>
   <summary>Documentation</summary>
-    <a href="https://kb.shelly.cloud/knowledge-base/shelly-plug-s"Shelly Knowledge Base</a>
+    <a href="https://kb.shelly.cloud/knowledge-base/shelly-plug-s">Shelly Knowledge Base</a>
 </details>
 </details>
 
