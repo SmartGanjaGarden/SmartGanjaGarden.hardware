@@ -142,4 +142,16 @@
 
 ---
 
+<details open>
+  <summary>Shelly Plus Plug S gen2</summary>
+  
+  ### Shelly Plus Plug S gen2
+  ![SmartPlug](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/shelly_plug_s_gen2.png "Shelly Plug S gen2")
+  
+  <details>
+  <summary>Documentation</summary>
+    <a href="https://kb.shelly.cloud/knowledge-base/shelly-plus-plug-s-v2">Shelly Knowledge Base</a>
+</details>
+</details>
 
+---
