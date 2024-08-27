@@ -136,7 +136,7 @@
   
   <details>
   <summary>Documentation</summary>
-  i would like to be a link
+  <a href="https://kb.shelly.cloud/knowledge-base/shelly-plug-s"Shelly Knowledge Base</a>
 </details>
 </details>
 
