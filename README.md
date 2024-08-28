@@ -183,3 +183,18 @@
 </details>
 
 ---
+
+
+<details open>
+  <summary>Sonoff SNZB-02P</summary>
+  
+  ### Sonoff SNZB-02P
+  ![Hygrometer](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/SNZB-02P.png "Sonoff SNZB-02P")
+  
+  <details>
+  <summary>Documentation</summary>
+    <a href="https://sonoff.tech/product-document/gateway-and-sensors-doc/snzb-02p-doc">Shelly Knowledge Base</a>
+</details>
+</details>
+
+---
