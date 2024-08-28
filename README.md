@@ -193,7 +193,7 @@
   
   <details>
   <summary>Documentation</summary>
-    <a href="https://sonoff.tech/product-document/gateway-and-sensors-doc/snzb-02p-doc">Shelly Knowledge Base</a>
+    <a href="https://sonoff.tech/product-document/gateway-and-sensors-doc/snzb-02p-doc">Sonoff Product Documents</a>
 </details>
 </details>
 
