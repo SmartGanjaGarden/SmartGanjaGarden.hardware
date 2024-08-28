@@ -184,6 +184,19 @@
 
 ---
 
+<details open>
+  <summary>Sonoff SNZB-02D</summary>
+  
+  ### Sonoff SNZB-02D
+  ![Hygrometer](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/SNZB-02D.png "Sonoff SNZB-02D")
+  
+  <details>
+  <summary>Documentation</summary>
+    <a href="https://sonoff.tech/product-document/gateway-and-sensors-doc/snzb-02d-doc">Sonoff Product Documents</a>
+</details>
+</details>
+
+---
 
 <details open>
   <summary>Sonoff SNZB-02P</summary>
