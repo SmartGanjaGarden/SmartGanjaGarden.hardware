@@ -129,6 +129,20 @@
 ---
 
 <details open>
+  <summary>Shelly Door/Window gen1</summary>
+  
+  ### Shelly Door/Window gen1
+  ![Door_Window](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/shelly_door_window_gen1.png "Shelly Door/Window gen1")
+  
+  <details>
+  <summary>Documentation</summary>
+    <a href="https://kb.shelly.cloud/knowledge-base/shelly-door-window-2">Shelly Knowledge Base</a>
+</details>
+</details>
+
+---
+
+<details open>
   <summary>Shelly Plug S gen1</summary>
   
   ### Shelly Plug S gen1
