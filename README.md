@@ -131,7 +131,7 @@
 <details open>
   <summary>Shelly Button gen1</summary>
   
-  ### Shelly Door/Window gen1
+  ### Shelly Button gen1
   ![Button](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/shelly_button_gen1.png "Shelly Button gen1")
   
   <details>
