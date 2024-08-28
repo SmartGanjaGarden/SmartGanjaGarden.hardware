@@ -129,6 +129,20 @@
 ---
 
 <details open>
+  <summary>Shelly Button gen1</summary>
+  
+  ### Shelly Door/Window gen1
+  ![Button](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/shelly_button_gen1.png "Shelly Button gen1")
+  
+  <details>
+  <summary>Documentation</summary>
+    <a href="https://kb.shelly.cloud/knowledge-base/shelly-button-1">Shelly Knowledge Base</a>
+</details>
+</details>
+
+---
+
+<details open>
   <summary>Shelly Door/Window gen1</summary>
   
   ### Shelly Door/Window gen1
