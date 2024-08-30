@@ -137,7 +137,8 @@
   <details>
   <summary>Documentation</summary>
     <a target="_blank" rel="noopener noreferrer" href="https://www.pearl.de/pdocs/NX4911_11_180747.pdf">Pearl Manual</a><br>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.pearl.de/pdocs/NX4911_11_189446.pdf">Pearl Quickstart</a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.pearl.de/pdocs/NX4911_11_189446.pdf">Pearl Quickstart</a><br>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.zigbee2mqtt.io/supported-devices/#s=GS361A-H04">Zigbee2MQTT</a>
 </details>
 </details>
 
