@@ -136,9 +136,7 @@
   
   <details>
   <summary>Documentation</summary>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.pearl.de/pdocs/NX4911_11_180747.pdf">Pearl Manual</a><br>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.pearl.de/pdocs/NX4911_11_189446.pdf">Pearl Quickstart</a><br>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.zigbee2mqtt.io/devices/GS361A-H04.html">Zigbee2MQTT</a>
+    <a target="_blank" rel="noopener noreferrer" href="https://phoscon.de/de/conbee2/">Phoscon Documentation</a>
 </details>
 </details>
 
