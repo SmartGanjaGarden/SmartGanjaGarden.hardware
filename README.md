@@ -136,8 +136,8 @@
   
   <details>
   <summary>Documentation</summary>
-    <a href="https://www.pearl.de/pdocs/NX4911_11_180747.pdf" target="_blank" rel="noopener noreferrer">Pearl Manual</a><br>
-    <a href="https://www.pearl.de/pdocs/NX4911_11_189446.pdf" target="_blank" rel="noopener noreferrer">Pearl Quickstart</a>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.pearl.de/pdocs/NX4911_11_180747.pdf">Pearl Manual</a><br>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.pearl.de/pdocs/NX4911_11_189446.pdf">Pearl Quickstart</a>
 </details>
 </details>
 
