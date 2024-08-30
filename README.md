@@ -129,6 +129,20 @@
 ---
 
 <details open>
+  <summary>Radiator Thermostat GS361A-H04/NX4911</summary>
+  
+  ### Radiator Thermostat GS361A-H04/NX4911
+  ![RadiatorThermostat](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/GS361A-H04.png "Radiator Thermostat GS361A-H04/NX4911")
+  
+  <details>
+  <summary>Documentation</summary>
+    <a href="https://www.pearl.de/pdocs/NX4911_11_180747.pdf">Pearl Documentation</a>
+</details>
+</details>
+
+---
+
+<details open>
   <summary>Shelly Button gen1</summary>
   
   ### Shelly Button gen1
