@@ -241,3 +241,17 @@
 </details>
 
 ---
+
+<details open>
+  <summary>ViparSpectra 2024 Lens Design XS1500 Pro 150W LED</summary>
+  
+  ### ViparSpectra 2024 Lens Design XS1500 Pro 150W LED
+  ![Growlight](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/XS1500Pro_gen2024_268pxwide.png "ViparSpectra 2024 XS1500 Pro")
+  
+  <details>
+  <summary>Documentation</summary>
+    <a href="https://sonoff.tech/product-document/gateway-and-sensors-doc/snzb-02p-doc">Sonoff Product Documents</a>
+</details>
+</details>
+
+---
