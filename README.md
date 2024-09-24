@@ -255,3 +255,17 @@
 </details>
 
 ---
+
+<details open>
+  <summary>Marshydro 2024 TS1000 150W LED</summary>
+  
+  ### Marshydro 2024 TS1000 150W LED
+  ![Growlight](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/MARS-HYDRO-2024-New-TS1000-150W-LED-Grow-Light_173pxwide.png "MarsHydro 2024 TS1000")
+  
+  <details>
+  <summary>Documentation</summary>
+    <a href="https://sonoff.tech/product-document/gateway-and-sensors-doc/snzb-02p-doc">Sonoff Product Documents</a>
+</details>
+</details>
+
+---
