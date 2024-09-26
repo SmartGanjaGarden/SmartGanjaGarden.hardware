@@ -243,6 +243,21 @@
 ---
 
 <details open>
+  <summary>Spider Farmer 6 inch inline duct fan</summary>
+  
+  ### Spider Farmer 6 inch inline duct fan
+  ![DuctFan](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/6-Inch-Inline-Fan-SpiderFarmer-402_173pxwide.png "Spider Farmer duct fan")
+  
+  <details>
+  <summary>Documentation</summary>
+    <a href="https://spiderfarmer.eu/wp-content/uploads/2024/09/SF-Inline-Fan-Kits-Temperature-and-Humidity-Controller-20240516.pdf">Spider Farmer Product Documents</a>
+</details>
+</details>
+
+
+---
+
+<details open>
   <summary>ViparSpectra 2024 Lens Design XS1500 Pro 150W LED</summary>
   
   ### ViparSpectra 2024 Lens Design XS1500 Pro 150W LED
