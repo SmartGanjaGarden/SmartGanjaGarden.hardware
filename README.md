@@ -215,6 +215,20 @@
 ---
 
 <details open>
+  <summary>Shelly Plus 0-10V Dimmer</summary>
+  
+  ### Shelly Plus 0-10V Dimmer
+  ![Dimmer](https://github.com/SmartGanjaGarden/SmartGanjaGarden.hardware/blob/main/src/images/shelly_plus_0-10_dimmer.png "Shelly Plus 0-10V Dimmer")
+  
+  <details>
+  <summary>Documentation</summary>
+    <a href="https://kb.shelly.cloud/knowledge-base/shelly-plus-0-10v-dimmer">Shelly Knowledge Base</a>
+</details>
+</details>
+
+---
+
+<details open>
   <summary>Sonoff SNZB-02D</summary>
   
   ### Sonoff SNZB-02D
